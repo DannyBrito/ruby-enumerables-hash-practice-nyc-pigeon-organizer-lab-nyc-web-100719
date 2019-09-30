@@ -18,5 +18,5 @@ def nyc_pigeon_organizer(data)
     }
    }
   }
-  puts new_data
+  new_data
 end
